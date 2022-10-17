@@ -41,7 +41,7 @@ func GetBio() Bio {
     <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Angel Santiago Jaime Zavala's Stack Overflow Profile" height="30" width="30">
   </a>
 
-  <a href="https://stackexchange.com/users/3525056/angel-santiago-jaime-zavala">
+  <a href="https://twitter.com/relaxxaid">
     <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="Angel Santiago Jaime Zavala's Stack Exchange Profile" height="30" width="30">
   </a>
 <!-- 
