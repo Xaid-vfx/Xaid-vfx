@@ -21,7 +21,7 @@ func GetBio() Bio {
 		"- 👯 I’m looking to collaborate on": "React, Web3 and Blockchain related projects",
 		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
 		"- 💬 Ask me about":                  "React, PHP, CSS, SQL, Problem-Solving and anything related to Web-Dev,
-		"- 📫 How to reach me:":              "https://github.com/Xaid-vfx#you-can-reach-me-at-alien",
+		"- 📫 How to reach me:":              "https://github.com/Xaid-vfx",
 	}
 }
 ```
