@@ -40,11 +40,11 @@ func GetBio() Bio {
   <a href="https://stackoverflow.com/users/18254158/mohd-zaid">
     <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Angel Santiago Jaime Zavala's Stack Overflow Profile" height="30" width="30">
   </a>
-<!-- 
-  <a href="https://stackexchange.com/users/3525056/angel-santiago-jaime-zavala">
-    <img src="https://www.vectorlogo.zone/logos/stackexchange/stackexchange-icon.svg" alt="Angel Santiago Jaime Zavala's Stack Exchange Profile" height="30" width="30">
-  </a>
 
+  <a href="https://stackexchange.com/users/3525056/angel-santiago-jaime-zavala">
+    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="Angel Santiago Jaime Zavala's Stack Exchange Profile" height="30" width="30">
+  </a>
+<!-- 
   <a href="https://stackshare.io/anhello">
     <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" alt="Angel Santiago Jaime Zavala's StackShare Profile" height="30" width="30">
   </a>
