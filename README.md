@@ -83,6 +83,8 @@ func GetBio() Bio {
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
+[![An image of @xaidvfx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/xaidvfx)](https://holopin.io/@xaidvfx)
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Xaid-vfx&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
