@@ -85,8 +85,6 @@ func GetBio() Bio {
 
 [![An image of @xaidvfx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/xaidvfx)](https://holopin.io/@xaidvfx)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=xaid-vfx&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Xaid-vfx&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
