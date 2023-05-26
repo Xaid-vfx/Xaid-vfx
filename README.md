@@ -20,7 +20,7 @@ func GetBio() Bio {
 		"- 🌱 I’m currently learning":        "TypeScript ,Redux (Tech stack from my company) --- Sharpening my DSA Skills as well as contributing to Open Source (Personal goal)",
 		"- 👯 I’m looking to collaborate on": "React, Web3 and Blockchain related projects",
 		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-		"- 💬 Ask me about":                  "React, PHP, CSS, SQL, Problem-Solving and anything related to Web-Dev,
+		"- 💬 Ask me about":                  "React, PHP, CSS, SQL, Problem-Solving and anything related to Web-Dev",
 		"- 📫 How to reach me:":              "mohdzaid.work@gmail.com",
 	}
 }
