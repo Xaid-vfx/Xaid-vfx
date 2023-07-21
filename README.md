@@ -28,7 +28,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **Next.js, React.js, Node.js and Problem Solving**
 
-- 🌱 I’m currently learning **How to make valuable Open Source Contributions**
+- 🌱 I’m a passionate Open Source Contributor, you can view my Contributions here --> [Open Source Contributions](https://portfolio-website-xaid-vfx.vercel.app/open-source)
 
 - 📝 I regularly post my progress on [Twitter](https://twitter.com/relaxxaid/)
 
