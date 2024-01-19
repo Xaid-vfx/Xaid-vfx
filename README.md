@@ -28,13 +28,9 @@
 <!--Intro start-->
 - 💻 I’m a Full Stack Web Developer (MERN), with proficiency in Front End Development.
   
-- 🌱 I’m a passionate Open Source Contributor, you can view my Contributions here --> [Open Source Contributions](https://portfolio-website-xaid-vfx.vercel.app/open-source)
-  
 - 🔭 I’m currently working on **Next.js, React.js, Node.js and Problem Solving**
 
-- 📝 I regularly post my progress on [Twitter](https://twitter.com/relaxxaid/)
-
-- 💬 Ask me about **React, TypeScript, JavaScript, Open Source, Web Design, CSS and anything related to Web**
+- 📝 I regularly post my progress on [Twitter](https://twitter.com/okzaid/)
 
 - 📫 Feel free to reach me out **mohdzaid.work@gmail.com**
 
