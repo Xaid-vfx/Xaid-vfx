@@ -23,8 +23,6 @@
   
 - 🔭 I’m currently working on **Next.js, React.js, Node.js and Problem Solving**
 
-- 📝 I regularly post my progress on [Twitter](https://twitter.com/okzaid/)
-
 - 📫 Feel free to reach me out **mohdzaid.work@gmail.com**
 
 <!--Intro end-->
