@@ -13,9 +13,9 @@
 
 
 <!--Intro start-->
-- 💻 I build really cool stuff
+- I build really cool stuff
 
-- 📫 Reach out here **mohdzaid.work@gmail.com**
+- Reach out here **mohdzaid.work@gmail.com**
 
 <!--Intro end-->
 
