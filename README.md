@@ -14,7 +14,7 @@
 
 <!--Intro start-->
 
-<p>Reach out here **mohdzaid.work@gmail.com**</p>
+- Reach out here **mohdzaid.work@gmail.com**
 
 <!--Intro end-->
 
