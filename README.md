@@ -10,18 +10,9 @@
 </div>
 
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
-</div>
-
 
 <!--Intro start-->
-- 💻 I’m a Full Stack Web Developer (MERN), with proficiency in Front End Development.
-  
-- 🔭 I’m currently working on **Next.js, React.js, Node.js and Problem Solving**
+- 💻 I build cool stuff
 
 - 📫 Feel free to reach me out **mohdzaid.work@gmail.com**
 
