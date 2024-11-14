@@ -5,8 +5,8 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi, <br />
-      I'm Zaid and I build really cool stuff</h1></summary>
+    <summary><h2 style="display: inline-block">Hi, <br />
+      I'm Zaid and I build really cool stuff</h2></summary>
   </ul>
 </div>
 
@@ -14,7 +14,7 @@
 
 <!--Intro start-->
 
-- Reach out here **mohdzaid.work@gmail.com**
+<p>Reach out here **mohdzaid.work@gmail.com**</p>
 
 <!--Intro end-->
 
