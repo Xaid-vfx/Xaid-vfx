@@ -6,14 +6,13 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi, <br />
-      I'm Zaid</h1></summary>
+      I'm Zaid and I build really cool stuff</h1></summary>
   </ul>
 </div>
 
 
 
 <!--Intro start-->
-- I build really cool stuff
 
 - Reach out here **mohdzaid.work@gmail.com**
 
